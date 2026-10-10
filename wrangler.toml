@@ -1,0 +1,8 @@
+name = "cafe-haven"
+compatibility_date = "2026-10-11"
+pages_build_output_dir = "./public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "cafe-haven-db"
+database_id = "22ab502c-3bfe-4a8e-a0da-3fc0bcaca7aa"

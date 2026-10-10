@@ -1,0 +1,1 @@
+D1追加テーブル: sessions (下記 schema.sql に含まれます)
